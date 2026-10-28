@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing global automotive retail sales data (2003–2005) to track profitability, regional customer demand, and product performance metrics.
 
 ## 📊 Dashboard Preview
-![Automotive Sales Dashboard](Screenshot 2026-09-08 154153 - Copy.png)
+![Automotive Sales Dashboard][global-sales-analytics-dashboard]
 
 ## 🎯 Project Overview
 This project focuses on extracting actionable business intelligence from a multi-year automotive retail dataset. The dashboard provides stakeholders with clear insights into revenue growth, profit margin fluctuations, and product inventory trends across global markets.
