@@ -19,8 +19,5 @@ This project focuses on extracting actionable business intelligence from a multi
 * **Data Sources:** Multi-year vehicle retail sales dataset (2003–2005)
 * **Visualizations:** Treemaps, Bar Charts, KPI Cards, Map Visuals, Pie Charts
 
-## 🚀 How to View the Dashboard
-1. Download the `.pbix` file from this repository (if uploaded).
-2. Open it using **Power BI Desktop**.
-3. Use the interactive filters at the top (Order Year, City, Employee Name, Product Line) to dynamically drill down into specific data points.
-4.
+
+
